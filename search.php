@@ -1,6 +1,6 @@
 <?php
-include_once "D:/Install/code/xamp/htdocs/dict/src/php/connection.php";
-include_once "D:/Install/code/xamp/htdocs/dict/src/php/header.php";
+include_once "connection.php";
+include_once "header.php";
 
 
 
@@ -63,6 +63,6 @@ if(isset($_GET['q'])){
 
 
  <?php
-include_once "D:/Install/code/xamp/htdocs/dict/src/php/footer.php";
+include_once "footer.php";
 
 ?>
