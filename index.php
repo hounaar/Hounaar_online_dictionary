@@ -1,5 +1,5 @@
 <?php
-include_once "D:/Install/code/xamp/htdocs/dict/src/php/connection.php";
+include_once "connection.php";
 
 ?>
 <!DOCTYPE html>
